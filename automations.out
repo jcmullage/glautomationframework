@@ -1,0 +1,701 @@
+2019-03-19 22:03:563 INFO  TestBase : 133 - Initialize WebDriver 1324829744
+2019-03-19 22:03:567 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-19 22:03:574 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-19 22:03:574 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-19 22:03:578 INFO  WaitHelper : 101 - page has been loaded
+2019-03-19 22:03:64 INFO  TestBase : 190 - Navigating to : https://www.amazon.com
+2019-03-19 22:03:86 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-19 22:03:112 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on MAC (c80c3b1639019a4ee00ca9c2bb73c970)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-19 22:03:163 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on MAC (c80c3b1639019a4ee00ca9c2bb73c970)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-19 22:03:164 INFO  TestBase : 173 - capturing screenshot
+2019-03-19 22:03:942 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-19 22:03:962 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on MAC (c80c3b1639019a4ee00ca9c2bb73c970)] -> xpath: //h1[contains(text(),'Sign in')]] for - 100 seconds
+2019-03-19 22:03:990 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on MAC (c80c3b1639019a4ee00ca9c2bb73c970)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-19 22:03:990 INFO  TestBase : 173 - capturing screenshot
+2019-03-19 22:03:434 INFO  SignInPage : 53 - Entering email - test@gmail.com
+2019-03-19 22:03:569 INFO  SignInPage : 59 - Entering password - admin
+2019-03-19 22:03:627 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-19 22:03:576 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 14:03:543 INFO  TestBase : 125 - The driver executable does not exist: E:\Local_Drive\Automation\Contributor\AmazonFramework\src\main\resources\drivers\chromedriver.exe
+2019-03-20 14:03:199 INFO  TestBase : 133 - Initialize WebDriver 949684105
+2019-03-20 14:03:207 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 14:03:217 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-20 14:03:217 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 14:03:222 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 14:03:705 INFO  TestBase : 190 - Navigating to : https://www.amazon.com
+2019-03-20 14:03:736 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 14:03:818 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (1090845f2d220ba9d3e14e83f12876e4)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-20 14:03:134 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (1090845f2d220ba9d3e14e83f12876e4)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 14:03:135 INFO  TestBase : 173 - capturing screenshot
+2019-03-20 14:03:184 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 14:03:211 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (1090845f2d220ba9d3e14e83f12876e4)] -> xpath: //h1[contains(text(),'Sign in')]] for - 100 seconds
+2019-03-20 14:03:246 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (1090845f2d220ba9d3e14e83f12876e4)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-20 14:03:247 INFO  TestBase : 173 - capturing screenshot
+2019-03-20 14:03:566 INFO  SignInPage : 53 - Entering email - test@gmail.com
+2019-03-20 14:03:814 INFO  SignInPage : 59 - Entering password - admin
+2019-03-20 14:03:21 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-20 14:03:308 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 14:03:332 INFO  WaitHelper : 106 - Waiting for element - Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='nav-shop']/a' for - 100 seconds
+2019-03-20 15:03:175 INFO  TestBase : 133 - Initialize WebDriver 949684105
+2019-03-20 15:03:181 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:188 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-20 15:03:189 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 15:03:193 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 15:03:133 INFO  TestBase : 190 - Navigating to : https://www.amazon.com
+2019-03-20 15:03:160 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:230 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-20 15:03:617 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 15:03:617 INFO  TestBase : 173 - capturing screenshot
+2019-03-20 15:03:497 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:527 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //h1[contains(text(),'Sign in')]] for - 100 seconds
+2019-03-20 15:03:570 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-20 15:03:570 INFO  TestBase : 173 - capturing screenshot
+2019-03-20 15:03:876 INFO  SignInPage : 53 - Entering email - thaveeshadarshana@gmail.com
+2019-03-20 15:03:149 INFO  SignInPage : 59 - Entering password - User@123
+2019-03-20 15:03:283 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-20 15:03:888 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:290 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //*[@id='nav-shop']/a] for - 100 seconds
+2019-03-20 15:03:826 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //*[@id='nav-shop']/a] is visible now
+2019-03-20 15:03:908 INFO  VerificationHelper : 23 - Element is displayed Hello, Darshana
+2019-03-20 15:03:873 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:315 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //*[@id="merchandised-content"]/div/div/h1] for - 100 seconds
+2019-03-20 15:03:345 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (df5832a7ad661e08ff4dc35b6f1a7132)] -> xpath: //*[@id="merchandised-content"]/div/div/h1] is visible now
+2019-03-20 15:03:346 INFO  DepartmentPage : 41 - DepartmentPage object created
+2019-03-20 15:03:346 INFO  TestBase : 173 - capturing screenshot
+2019-03-20 15:03:734 INFO  DepartmentPage : 47 - scrolling to category - NURSERY
+2019-03-20 15:03:737 INFO  JavascriptHelper : 18 - javascript helper has been initialized
+2019-03-20 15:03:830 INFO  JavascriptHelper : 47 - scroll till web element
+2019-03-20 15:03:865 INFO  DepartmentPage : 52 - Clicking on category - NURSERY
+2019-03-20 15:03:372 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:560 INFO  WaitHelper : 106 - Waiting for element - Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='s-result-count']' for - 100 seconds
+2019-03-20 15:03:895 INFO  TestBase : 134 - Initialize WebDriver 1697752980
+2019-03-20 15:03:899 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:903 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-20 15:03:903 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 15:03:908 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 15:03:548 INFO  TestBase : 191 - Navigating to : https://www.amazon.com
+2019-03-20 15:03:571 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:645 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (22a7964446551269fda9515840bd7799)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-20 15:03:174 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (22a7964446551269fda9515840bd7799)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 15:03:174 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:308 INFO  TestBase : 134 - Initialize WebDriver 949684105
+2019-03-20 15:03:312 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:320 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-20 15:03:320 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 15:03:324 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 15:03:956 INFO  TestBase : 191 - Navigating to : https://www.amazon.com
+2019-03-20 15:03:980 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:13 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (52d7b401c33d44cce7496f5a24aeed99)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-20 15:03:369 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (52d7b401c33d44cce7496f5a24aeed99)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 15:03:370 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:169 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:194 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (52d7b401c33d44cce7496f5a24aeed99)] -> xpath: //h1[contains(text(),'Sign in')]] for - 100 seconds
+2019-03-20 15:03:232 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (52d7b401c33d44cce7496f5a24aeed99)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-20 15:03:232 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:517 INFO  SignInPage : 53 - Entering email - thaveeshadarshana@gmail.com
+2019-03-20 15:03:763 INFO  SignInPage : 59 - Entering password - User@123
+2019-03-20 15:03:887 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-20 15:03:804 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:367 INFO  TestBase : 134 - Initialize WebDriver 949684105
+2019-03-20 15:03:372 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:381 INFO  WaitHelper : 35 - setting implicit wait to 120
+2019-03-20 15:03:382 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 15:03:387 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 15:03:955 INFO  TestBase : 192 - Navigating to : https://www.amazon.com
+2019-03-20 15:03:982 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:129 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //span[contains(text(),'Hello')]] for - 100 seconds
+2019-03-20 15:03:183 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 15:03:183 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:259 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:299 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //h1[contains(text(),'Sign in')]] for - 100 seconds
+2019-03-20 15:03:340 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-20 15:03:341 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:658 INFO  SignInPage : 53 - Entering email - thaveeshadarshana@gmail.com
+2019-03-20 15:03:964 INFO  SignInPage : 59 - Entering password - User@123
+2019-03-20 15:03:103 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-20 15:03:920 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:367 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //*[@id='nav-shop']/a] for - 100 seconds
+2019-03-20 15:03:468 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //*[@id='nav-shop']/a] is visible now
+2019-03-20 15:03:681 INFO  VerificationHelper : 23 - Element is displayed Hello, Darshana
+2019-03-20 15:03:474 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:950 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //*[@id="merchandised-content"]/div/div/h1] for - 100 seconds
+2019-03-20 15:03:29 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (ba3adbfabe022c5c4f6ac9f099b338c7)] -> xpath: //*[@id="merchandised-content"]/div/div/h1] is visible now
+2019-03-20 15:03:30 INFO  DepartmentPage : 41 - DepartmentPage object created
+2019-03-20 15:03:30 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:480 INFO  DepartmentPage : 47 - scrolling to category - NURSERY
+2019-03-20 15:03:481 INFO  JavascriptHelper : 18 - javascript helper has been initialized
+2019-03-20 15:03:496 INFO  JavascriptHelper : 47 - scroll till web element
+2019-03-20 15:03:519 INFO  DepartmentPage : 52 - Clicking on category - NURSERY
+2019-03-20 15:03:85 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:457 INFO  WaitHelper : 106 - Waiting for element - Proxy element for: DefaultElementLocator 'By.xpath: //span[@id='s-result-count']' for - 100 seconds
+2019-03-20 15:03:307 INFO  TestBase : 134 - Initialize WebDriver 949684105
+2019-03-20 15:03:310 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:316 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-03-20 15:03:316 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-03-20 15:03:320 INFO  WaitHelper : 101 - page has been loaded
+2019-03-20 15:03:215 INFO  TestBase : 192 - Navigating to : https://www.amazon.com
+2019-03-20 15:03:247 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:416 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //span[contains(text(),'Hello')]] for - 10 seconds
+2019-03-20 15:03:472 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //span[contains(text(),'Hello')]] is visible now
+2019-03-20 15:03:473 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:336 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:359 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //h1[contains(text(),'Sign in')]] for - 10 seconds
+2019-03-20 15:03:432 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //h1[contains(text(),'Sign in')]] is visible now
+2019-03-20 15:03:432 INFO  TestBase : 174 - capturing screenshot
+2019-03-20 15:03:778 INFO  SignInPage : 53 - Entering email - thaveeshadarshana@gmail.com
+2019-03-20 15:03:57 INFO  SignInPage : 59 - Entering password - User@123
+2019-03-20 15:03:211 INFO  SignInPage : 65 - Clicking on sign in button
+2019-03-20 15:03:688 INFO  WaitHelper : 28 - WaitHelper object created
+2019-03-20 15:03:728 INFO  WaitHelper : 106 - Waiting for element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //*[@id='nav-shop']/a] for - 10 seconds
+2019-03-20 15:03:772 INFO  WaitHelper : 109 - Element - [[ChromeDriver: chrome on XP (84b685dd5ddc9ca04bbbb08e61df48f5)] -> xpath: //*[@id='nav-shop']/a] is visible now
+2019-03-20 15:03:842 INFO  VerificationHelper : 23 - Element is displayed Hello, Darshana
+2019-06-15 12:06:548 INFO  TestBase : 140 - Initialize WebDriver 736920911
+2019-06-15 12:06:552 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-15 12:06:562 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-15 12:06:562 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-15 12:06:567 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 09:06:74 INFO  TestBase : 140 - Initialize WebDriver 116734858
+2019-06-16 09:06:79 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 09:06:107 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 09:06:108 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 09:06:123 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 10:06:177 INFO  TestBase : 140 - Initialize WebDriver 1293677337
+2019-06-16 10:06:196 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 10:06:250 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 10:06:250 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 10:06:277 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 11:06:332 INFO  TestBase : 140 - Initialize WebDriver 1293677337
+2019-06-16 11:06:332 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 11:06:375 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 11:06:376 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 11:06:399 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 11:06:647 INFO  TestBase : 141 - Initialize WebDriver 1293677337
+2019-06-16 11:06:647 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 11:06:686 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 11:06:687 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 11:06:709 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 11:06:837 INFO  TestBase : 141 - Initialize WebDriver 1293677337
+2019-06-16 11:06:845 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 11:06:892 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 11:06:893 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 11:06:920 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:566 INFO  TestBase : 141 - Initialize WebDriver 1328718765
+2019-06-16 12:06:590 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:630 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:632 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:657 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:438 INFO  TestBase : 140 - Initialize WebDriver 1328718765
+2019-06-16 12:06:457 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:477 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:477 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:504 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:638 INFO  TestBase : 140 - Initialize WebDriver 1293677337
+2019-06-16 12:06:661 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:695 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:697 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:706 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:291 INFO  TestBase : 140 - Initialize WebDriver 1328718765
+2019-06-16 12:06:294 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:330 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:330 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:353 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:841 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-06-16 12:06:864 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:898 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:899 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:910 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:764 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-06-16 12:06:783 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:803 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:804 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:817 INFO  WaitHelper : 101 - page has been loaded
+2019-06-16 12:06:100 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-06-16 12:06:124 INFO  WaitHelper : 28 - WaitHelper object created
+2019-06-16 12:06:160 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-06-16 12:06:161 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-06-16 12:06:186 INFO  WaitHelper : 101 - page has been loaded
+2019-07-13 21:07:478 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-13 21:07:494 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-13 21:07:514 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-13 21:07:515 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-13 21:07:525 INFO  WaitHelper : 101 - page has been loaded
+2019-07-14 13:07:874 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-14 13:07:01 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-14 13:07:82 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-14 13:07:82 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-14 13:07:90 INFO  WaitHelper : 101 - page has been loaded
+2019-07-14 15:07:119 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-14 15:07:206 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-14 15:07:215 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-14 15:07:215 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-14 15:07:221 INFO  WaitHelper : 101 - page has been loaded
+2019-07-14 15:07:212 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-14 15:07:219 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-14 15:07:233 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-14 15:07:233 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-14 15:07:240 INFO  WaitHelper : 101 - page has been loaded
+2019-07-14 15:07:619 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-14 15:07:627 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-14 15:07:641 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-14 15:07:641 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-14 15:07:647 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 18:07:896 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-15 18:07:02 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 18:07:56 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 18:07:57 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 18:07:62 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 19:07:729 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-15 19:07:735 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 19:07:757 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 19:07:758 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 19:07:764 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:815 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-15 23:07:821 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:833 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:834 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:840 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:715 INFO  TestBase : 144 - Initialize WebDriver 1469907228
+2019-07-15 23:07:720 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:729 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:730 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:737 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:484 INFO  TestBase : 144 - Initialize WebDriver 1644864746
+2019-07-15 23:07:496 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:512 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:512 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:520 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:97 INFO  TestBase : 144 - Initialize WebDriver 1644864746
+2019-07-15 23:07:102 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:112 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:112 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:117 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:56 INFO  TestBase : 144 - Initialize WebDriver 1644864746
+2019-07-15 23:07:61 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:73 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:73 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:79 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:459 INFO  TestBase : 144 - Initialize WebDriver 1469907228
+2019-07-15 23:07:465 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:475 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:475 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:479 INFO  WaitHelper : 101 - page has been loaded
+2019-07-15 23:07:558 INFO  TestBase : 144 - Initialize WebDriver 1074263646
+2019-07-15 23:07:565 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-15 23:07:583 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-15 23:07:583 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-15 23:07:590 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 00:07:956 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-16 00:07:965 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 00:07:980 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 00:07:980 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 00:07:984 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 00:07:268 INFO  TestBase : 144 - Initialize WebDriver 1215029765
+2019-07-16 00:07:275 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 00:07:290 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 00:07:290 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 00:07:296 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 00:07:420 INFO  TestBase : 144 - Initialize WebDriver 259077766
+2019-07-16 00:07:427 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 00:07:440 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 00:07:441 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 00:07:447 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 00:07:116 INFO  TestBase : 144 - Initialize WebDriver 600017090
+2019-07-16 00:07:124 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 00:07:135 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 00:07:135 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 00:07:140 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 00:07:979 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 00:07:60 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 00:07:209 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 00:07:209 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 00:07:214 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:856 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 01:07:02 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:39 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:40 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:48 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:691 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-16 01:07:696 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:705 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:705 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:709 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:501 INFO  TestBase : 144 - Initialize WebDriver 1215029765
+2019-07-16 01:07:604 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:649 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:650 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:658 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:877 INFO  TestBase : 144 - Initialize WebDriver 1215029765
+2019-07-16 01:07:906 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:916 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:916 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:920 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:420 INFO  TestBase : 144 - Initialize WebDriver 1554086576
+2019-07-16 01:07:489 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:528 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:528 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:533 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:265 INFO  TestBase : 144 - Initialize WebDriver 1263391254
+2019-07-16 01:07:341 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:350 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:350 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:356 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:891 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 01:07:915 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:925 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:926 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:930 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:213 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-16 01:07:230 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:249 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:250 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:257 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:139 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-16 01:07:146 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:162 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:163 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:177 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:785 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 01:07:847 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:883 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:883 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:890 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:725 INFO  TestBase : 144 - Initialize WebDriver 116734858
+2019-07-16 01:07:916 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:932 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:933 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:940 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:708 INFO  TestBase : 144 - Initialize WebDriver 1215029765
+2019-07-16 01:07:750 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:759 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:760 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:765 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:368 INFO  TestBase : 144 - Initialize WebDriver 1554086576
+2019-07-16 01:07:475 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:490 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:491 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:498 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 01:07:629 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 01:07:694 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 01:07:703 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 01:07:703 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 01:07:707 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 02:07:752 INFO  TestBase : 144 - Initialize WebDriver 116734858
+2019-07-16 02:07:765 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 02:07:778 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 02:07:778 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 02:07:784 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 02:07:839 INFO  TestBase : 144 - Initialize WebDriver 1293677337
+2019-07-16 02:07:908 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 02:07:926 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 02:07:927 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 02:07:933 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 02:07:154 INFO  TestBase : 144 - Initialize WebDriver 2106592975
+2019-07-16 02:07:162 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 02:07:172 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 02:07:173 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 02:07:178 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 09:07:759 INFO  TestBase : 144 - Initialize WebDriver 1554086576
+2019-07-16 09:07:801 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 09:07:830 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 09:07:830 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 09:07:836 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 09:07:501 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 09:07:682 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 09:07:854 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 09:07:855 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 09:07:862 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:896 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 10:07:950 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:979 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:979 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:987 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:693 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 10:07:742 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:752 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:753 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:756 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:860 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 10:07:897 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:906 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:906 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:911 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:557 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 10:07:711 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:732 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:733 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:741 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:723 INFO  TestBase : 144 - Initialize WebDriver 1732238286
+2019-07-16 10:07:728 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:740 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:740 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:746 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:976 INFO  TestBase : 144 - Initialize WebDriver 1732238286
+2019-07-16 10:07:38 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:59 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:60 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:66 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:870 INFO  TestBase : 144 - Initialize WebDriver 1732238286
+2019-07-16 10:07:978 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:987 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:987 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:991 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 10:07:532 INFO  TestBase : 144 - Initialize WebDriver 1732238286
+2019-07-16 10:07:536 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 10:07:547 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 10:07:547 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 10:07:551 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 11:07:673 INFO  TestBase : 144 - Initialize WebDriver 1862383967
+2019-07-16 11:07:677 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 11:07:687 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 11:07:687 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 11:07:691 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 18:07:733 INFO  TestBase : 146 - Initialize WebDriver 2106592975
+2019-07-16 18:07:961 INFO  WaitHelper : 28 - WaitHelper object created
+2019-07-16 18:07:231 INFO  WaitHelper : 35 - setting implicit wait to 10
+2019-07-16 18:07:232 INFO  WaitHelper : 99 - waiting for the page to load for : 100 seconds
+2019-07-16 18:07:239 INFO  WaitHelper : 101 - page has been loaded
+2019-07-16 19:07:624 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:785 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:620 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:10 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:380 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:515 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:244 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:364 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:662 INFO  TestBase : 156 - driver is null
+2019-07-16 21:07:732 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:404 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:375 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:234 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:661 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:454 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:234 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:68 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:509 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:155 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:751 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:840 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:314 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:660 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:62 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:596 INFO  TestBase : 156 - driver is null
+2019-07-16 22:07:884 INFO  TestBase : 156 - driver is null
+2019-07-17 00:07:131 INFO  TestBase : 157 - driver is null
+2019-07-17 00:07:697 INFO  TestBase : 157 - driver is null
+2019-07-17 00:07:157 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:466 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:633 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:120 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:177 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:10 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:947 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:206 INFO  TestBase : 157 - driver is null
+2019-07-17 01:07:257 INFO  TestBase : 157 - driver is null
+2019-07-17 14:07:406 INFO  TestBase : 157 - driver is null
+2019-07-17 20:07:388 INFO  TestBase : 157 - driver is null
+2019-07-17 20:07:728 INFO  TestBase : 157 - driver is null
+2019-07-17 21:07:590 INFO  TestBase : 157 - driver is null
+2019-07-19 00:07:476 INFO  TestBase : 157 - driver is null
+2019-07-19 00:07:929 INFO  TestBase : 157 - driver is null
+2019-07-19 00:07:619 INFO  TestBase : 157 - driver is null
+2019-07-19 01:07:680 INFO  TestBase : 157 - driver is null
+2019-07-19 01:07:723 INFO  TestBase : 157 - driver is null
+2019-07-21 12:07:644 INFO  TestBase : 157 - driver is null
+2019-07-21 12:07:108 INFO  TestBase : 157 - driver is null
+2019-07-21 17:07:281 INFO  TestBase : 157 - driver is null
+2019-07-21 17:07:260 INFO  TestBase : 157 - driver is null
+2019-07-22 00:07:378 INFO  TestBase : 156 - driver is null
+2019-07-22 01:07:703 INFO  TestBase : 157 - driver is null
+2019-07-22 02:07:956 INFO  TestBase : 157 - driver is null
+2019-08-03 22:08:98 INFO  TestBase : 155 - driver is null
+2019-08-03 23:08:362 INFO  TestBase : 155 - driver is null
+2019-08-03 23:08:714 INFO  TestBase : 155 - driver is null
+2019-08-03 23:08:721 INFO  TestBase : 155 - driver is null
+2019-08-04 01:08:592 INFO  TestBase : 155 - driver is null
+2019-08-04 01:08:550 INFO  TestBase : 155 - driver is null
+2019-08-04 01:08:880 INFO  TestBase : 155 - driver is null
+2019-08-04 02:08:168 INFO  TestBase : 157 - driver is null
+2019-08-04 02:08:823 INFO  TestBase : 157 - driver is null
+2019-08-04 02:08:27 INFO  TestBase : 157 - driver is null
+2019-08-04 02:08:396 INFO  TestBase : 157 - driver is null
+2019-08-04 03:08:952 INFO  TestBase : 157 - driver is null
+2019-08-04 03:08:681 INFO  TestBase : 157 - driver is null
+2019-08-04 04:08:696 INFO  TestBase : 157 - driver is null
+2019-08-04 04:08:761 INFO  TestBase : 157 - driver is null
+2019-08-04 12:08:143 INFO  TestBase : 157 - driver is null
+2019-08-04 13:08:945 INFO  TestBase : 157 - driver is null
+2019-08-04 13:08:460 INFO  TestBase : 157 - driver is null
+2019-08-04 21:08:39 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:174 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:101 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:606 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:500 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:770 INFO  TestBase : 158 - driver is null
+2019-08-04 21:08:907 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:914 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:120 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:483 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:843 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:834 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:830 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:709 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:701 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:480 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:20 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:162 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:929 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:718 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:851 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:485 INFO  TestBase : 158 - driver is null
+2019-08-04 22:08:73 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:826 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:121 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:451 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:441 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:506 INFO  TestBase : 160 - driver is null
+2019-08-04 22:08:812 INFO  TestBase : 160 - driver is null
+2019-08-04 23:08:701 INFO  TestBase : 161 - driver is null
+2019-08-04 23:08:925 INFO  TestBase : 161 - driver is null
+2019-08-04 23:08:674 INFO  TestBase : 161 - driver is null
+2019-08-04 23:08:264 INFO  TestBase : 161 - driver is null
+2019-08-04 23:08:801 INFO  TestBase : 161 - driver is null
+2019-08-05 00:08:887 INFO  TestBase : 161 - driver is null
+2019-08-05 00:08:664 INFO  TestBase : 161 - driver is null
+2019-08-05 00:08:487 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:242 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:84 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:486 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:164 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:647 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:294 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:994 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:537 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:898 INFO  TestBase : 161 - driver is null
+2019-08-05 18:08:399 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:835 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:60 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:559 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:863 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:545 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:19 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:321 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:218 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:306 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:141 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:388 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:957 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:842 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:163 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:69 INFO  TestBase : 161 - driver is null
+2019-08-05 19:08:65 INFO  TestBase : 161 - driver is null
+2019-08-06 22:08:394 INFO  TestBase : 162 - driver is null
+2019-08-06 22:08:87 INFO  TestBase : 162 - driver is null
+2019-08-06 22:08:871 INFO  TestBase : 162 - driver is null
+2019-08-06 22:08:105 INFO  TestBase : 162 - driver is null
+2019-08-07 01:08:51 INFO  TestBase : 162 - driver is null
+2019-08-07 02:08:470 INFO  TestBase : 162 - driver is null
+2019-08-07 10:08:765 INFO  TestBase : 162 - driver is null
+2019-08-07 13:08:635 INFO  TestBase : 162 - driver is null
+2019-08-07 15:08:674 INFO  TestBase : 162 - driver is null
+2019-08-07 15:08:971 INFO  TestBase : 162 - driver is null
+2019-08-07 16:08:124 INFO  TestBase : 162 - driver is null
+2019-08-07 21:08:958 INFO  TestBase : 165 - driver is null
+2019-08-07 22:08:906 INFO  TestBase : 165 - driver is null
+2019-08-07 22:08:519 INFO  TestBase : 165 - driver is null
+2019-08-07 23:08:967 INFO  TestBase : 165 - driver is null
+2019-08-08 00:08:413 INFO  TestBase : 165 - driver is null
+2019-08-08 01:08:952 INFO  TestBase : 165 - driver is null
+2019-08-08 16:08:211 INFO  TestBase : 165 - driver is null
+2019-08-08 21:08:418 INFO  TestBase : 165 - driver is null
+2019-08-09 02:08:458 INFO  TestBase : 165 - driver is null
+2019-08-12 15:08:291 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:979 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:350 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:640 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:108 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:566 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:892 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:943 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:104 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:522 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:549 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:47 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:571 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:701 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:731 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:314 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:279 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:515 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:906 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:700 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:561 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:218 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:426 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:933 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:844 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:860 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:279 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:455 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:378 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:255 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:651 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:712 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:628 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:525 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:324 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:612 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:890 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:297 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:708 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:276 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:407 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:769 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:784 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:820 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:451 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:621 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:115 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:402 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:653 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 21:08:667 INFO  TestBase : 165 - driver is null
+2019-08-12 21:08:733 INFO  TestBase : 165 - driver is null
+2019-08-12 22:08:414 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:878 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:532 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:727 INFO  TestBase : 165 - driver is null
+2019-08-12 22:08:127 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:468 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:631 INFO  TestBase : 165 - driver is null
+2019-08-12 22:08:638 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:806 INFO  TestBase : 165 - driver is null
+2019-08-12 22:08:20 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 22:08:212 INFO  TestBase : 165 - driver is null
+2019-08-12 23:08:913 INFO  TestBase : 192 - capturing screenshot
+2019-08-12 23:08:923 INFO  TestBase : 165 - driver is null
+2019-08-12 23:08:963 INFO  TestBase : 165 - driver is null
+2019-08-13 00:08:123 INFO  TestBase : 192 - capturing screenshot
+2019-08-13 00:08:279 INFO  TestBase : 192 - capturing screenshot
+2019-08-13 01:08:26 INFO  TestBase : 192 - capturing screenshot
+2019-08-13 01:08:226 INFO  TestBase : 192 - capturing screenshot
+2019-08-13 02:08:697 INFO  TestBase : 192 - capturing screenshot
+2019-08-13 02:08:481 INFO  TestBase : 165 - driver is null
+2019-08-13 10:08:800 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 10:08:902 INFO  TestBase : 167 - driver is null
+2019-08-13 10:08:814 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 11:08:870 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 11:08:941 INFO  TestBase : 167 - driver is null
+2019-08-13 11:08:186 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 11:08:218 INFO  TestBase : 167 - driver is null
+2019-08-13 11:08:369 INFO  TestBase : 167 - driver is null
+2019-08-13 12:08:629 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 12:08:694 INFO  TestBase : 167 - driver is null
+2019-08-13 12:08:678 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 12:08:39 INFO  TestBase : 167 - driver is null
+2019-08-13 21:08:462 INFO  TestBase : 194 - capturing screenshot
+2019-08-13 22:08:539 INFO  TestBase : 194 - capturing screenshot
+2019-08-14 11:08:205 INFO  TestBase : 194 - capturing screenshot
+2019-08-14 11:08:240 INFO  TestBase : 167 - driver is null
+2019-08-14 11:08:290 INFO  TestBase : 167 - driver is null
+2019-08-14 11:08:305 INFO  TestBase : 194 - capturing screenshot
+2019-08-14 11:08:874 INFO  TestBase : 194 - capturing screenshot
+2019-08-14 12:08:226 INFO  TestBase : 194 - capturing screenshot

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite">
+	<listeners>
+		<!-- <listener class-name="helper.listener.RetryListener"></listener> -->
+		<listener class-name="helper.listener.ExtentListner"></listener>
+	</listeners>
+	<test name="A">
+		<classes>
+			<class name="framework.A">
+			</class>
+		</classes>
+	</test>
+	<test name="B">
+		<classes>
+			<class name="framework.B">
+			</class>
+		</classes>
+	</test>
+	<test name="C">
+		<classes>
+			<class name="framework.C">
+			</class>
+		</classes>
+	</test>
+	<test name="TestScreenShot">
+		<classes>
+			<class name="testcases.TestScreenShot">
+			</class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,15 @@
+login = user
+firstName = JC_fname
+lastName = Mu_lname
+password = Pass123@
+
+login.uname = user_agent
+login.password = Pass123@
+
+comment = Best Brand!!!
+
+profile.gender = Male
+profile.age = 40
+profile.address = 1/34 Arabi Street
+profile.phoneNo = 0272311734
+profile.hobby = Biking
