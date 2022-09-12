@@ -34,14 +34,13 @@ public class TC_buggyRegister extends TestBase {
         //Fill(register.tf_login,prop.getProperty("login")+timeStamp);
         Fill(register.tf_login,loginName);
         Fill(register.tf_fname,prop.getProperty("firstName"));
-        Wait(10000);
+        Wait(5000);
         Fill(register.tf_lname,prop.getProperty("lastName"));
         Fill(register.tf_password,prop.getProperty("password"));
         Fill(register.tf_repassword,prop.getProperty("password"));
         Click(register.btn_submit);
         CheckElementPresent(register.lbl_success);
-        Wait(10000);
-        
+        Wait(5000);
         //Fill(login.tf_uname,prop.getProperty("login")+timeStamp);
         Fill(login.tf_uname,loginName);
         Fill(login.tf_password,prop.getProperty("password"));
